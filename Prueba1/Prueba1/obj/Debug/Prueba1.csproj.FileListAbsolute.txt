@@ -1,0 +1,14 @@
+C:\Users\adminsena\Documents\System32\Csharp\Prueba1\Prueba1\bin\Debug\Prueba1.exe.config
+C:\Users\adminsena\Documents\System32\Csharp\Prueba1\Prueba1\bin\Debug\Prueba1.exe
+C:\Users\adminsena\Documents\System32\Csharp\Prueba1\Prueba1\bin\Debug\Prueba1.pdb
+C:\Users\adminsena\Documents\System32\Csharp\Prueba1\Prueba1\bin\Debug\Dapper.dll
+C:\Users\adminsena\Documents\System32\Csharp\Prueba1\Prueba1\bin\Debug\Dapper.xml
+C:\Users\adminsena\Documents\System32\Csharp\Prueba1\Prueba1\obj\Debug\Prueba1.csproj.AssemblyReference.cache
+C:\Users\adminsena\Documents\System32\Csharp\Prueba1\Prueba1\obj\Debug\Prueba1.csproj.SuggestedBindingRedirects.cache
+C:\Users\adminsena\Documents\System32\Csharp\Prueba1\Prueba1\obj\Debug\Prueba1.Form1.resources
+C:\Users\adminsena\Documents\System32\Csharp\Prueba1\Prueba1\obj\Debug\Prueba1.Properties.Resources.resources
+C:\Users\adminsena\Documents\System32\Csharp\Prueba1\Prueba1\obj\Debug\Prueba1.csproj.GenerateResource.cache
+C:\Users\adminsena\Documents\System32\Csharp\Prueba1\Prueba1\obj\Debug\Prueba1.csproj.CoreCompileInputs.cache
+C:\Users\adminsena\Documents\System32\Csharp\Prueba1\Prueba1\obj\Debug\Prueba1.csproj.CopyComplete
+C:\Users\adminsena\Documents\System32\Csharp\Prueba1\Prueba1\obj\Debug\Prueba1.exe
+C:\Users\adminsena\Documents\System32\Csharp\Prueba1\Prueba1\obj\Debug\Prueba1.pdb
