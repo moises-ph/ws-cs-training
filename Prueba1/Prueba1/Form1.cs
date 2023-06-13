@@ -13,17 +13,30 @@ namespace Prueba1
 {
     public partial class Form1 : Form
     {
-        IProductRepository productRepository;
         public Form1()
         {
             InitializeComponent();
-            productRepository = new ProductRepository();
         }
 
-        private void Form1_Load(object sender, EventArgs e)
+        private void nuevoToolStripMenuItem_Click_1(object sender, EventArgs e)
         {
-            DVProductos.DataSource = productRepository.GetProductos();
-            label1.Text = $"Total Producots: {DVProductos.RowCount}";
+            ProductosForm newMDIChild = new ProductosForm();
+            // Set the Parent Form of the Child window.
+            newMDIChild.MdiParent = this;
+            // Display the new form.
+            newMDIChild.Show();
+        }
+
+        private void ventanasEnCascadaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.LayoutMdi(System.Windows.Forms.MdiLayout.Cascade);
+        }
+
+        private void verExcelToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            ExcelForm excelForm= new ExcelForm();
+            excelForm.MdiParent = this;
+            excelForm.Show();
         }
     }
 }
