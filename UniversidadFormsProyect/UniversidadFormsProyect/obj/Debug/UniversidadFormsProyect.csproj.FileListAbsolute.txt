@@ -1,0 +1,15 @@
+C:\Users\Adminsena\source\repos\UniversidadFormsProyect\UniversidadFormsProyect\bin\Debug\UniversidadFormsProyect.exe.config
+C:\Users\Adminsena\source\repos\UniversidadFormsProyect\UniversidadFormsProyect\bin\Debug\UniversidadFormsProyect.exe
+C:\Users\Adminsena\source\repos\UniversidadFormsProyect\UniversidadFormsProyect\bin\Debug\UniversidadFormsProyect.pdb
+C:\Users\Adminsena\source\repos\UniversidadFormsProyect\UniversidadFormsProyect\bin\Debug\Dapper.dll
+C:\Users\Adminsena\source\repos\UniversidadFormsProyect\UniversidadFormsProyect\bin\Debug\Dapper.xml
+C:\Users\Adminsena\source\repos\UniversidadFormsProyect\UniversidadFormsProyect\obj\Debug\UniversidadFormsProyect.csproj.AssemblyReference.cache
+C:\Users\Adminsena\source\repos\UniversidadFormsProyect\UniversidadFormsProyect\obj\Debug\UniversidadFormsProyect.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adminsena\source\repos\UniversidadFormsProyect\UniversidadFormsProyect\obj\Debug\UniversidadFormsProyect.Form1.resources
+C:\Users\Adminsena\source\repos\UniversidadFormsProyect\UniversidadFormsProyect\obj\Debug\UniversidadFormsProyect.Properties.Resources.resources
+C:\Users\Adminsena\source\repos\UniversidadFormsProyect\UniversidadFormsProyect\obj\Debug\UniversidadFormsProyect.SubForms.EstudianteForm.resources
+C:\Users\Adminsena\source\repos\UniversidadFormsProyect\UniversidadFormsProyect\obj\Debug\UniversidadFormsProyect.csproj.GenerateResource.cache
+C:\Users\Adminsena\source\repos\UniversidadFormsProyect\UniversidadFormsProyect\obj\Debug\UniversidadFormsProyect.csproj.CoreCompileInputs.cache
+C:\Users\Adminsena\source\repos\UniversidadFormsProyect\UniversidadFormsProyect\obj\Debug\UniversidadFormsProyect.csproj.CopyComplete
+C:\Users\Adminsena\source\repos\UniversidadFormsProyect\UniversidadFormsProyect\obj\Debug\UniversidadFormsProyect.exe
+C:\Users\Adminsena\source\repos\UniversidadFormsProyect\UniversidadFormsProyect\obj\Debug\UniversidadFormsProyect.pdb
