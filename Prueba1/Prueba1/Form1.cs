@@ -13,28 +13,33 @@ namespace Prueba1
 {
     public partial class Form1 : Form
     {
+
+        private void closeActualMdiForm()
+        {
+            Form activeChild = this.ActiveMdiChild;
+            if(activeChild != null)
+            {
+                activeChild.Close();
+            }
+        }
+
         public Form1()
         {
             InitializeComponent();
         }
 
-        private void nuevoToolStripMenuItem_Click_1(object sender, EventArgs e)
+        private void VerProductosToolStripMenuItem_Click_1(object sender, EventArgs e)
         {
-            ProductosForm newMDIChild = new ProductosForm();
-            // Set the Parent Form of the Child window.
-            newMDIChild.MdiParent = this;
-            // Display the new form.
-            newMDIChild.Show();
-        }
-
-        private void ventanasEnCascadaToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            this.LayoutMdi(System.Windows.Forms.MdiLayout.Cascade);
+            closeActualMdiForm();
+            ProductosForm productosForm = new ProductosForm();
+            productosForm.MdiParent = this;
+            productosForm.Show();
         }
 
         private void verExcelToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            ExcelForm excelForm= new ExcelForm();
+            closeActualMdiForm();
+            ExcelForm excelForm = new ExcelForm();
             excelForm.MdiParent = this;
             excelForm.Show();
         }
